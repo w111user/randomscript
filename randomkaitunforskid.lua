@@ -4347,11 +4347,11 @@ if _G.Switch_Hub_Series_R then
 		end)
 	end
 	Quest_Check = {}
-	Mas_Superhuman = 330
+	Mas_Superhuman = 400
 	Mas_Death_Step = 400
-	Mas_Sharkman_Karate = 300
-	Mas_Electric_Claw = 330
-	Mas_Dragon_Talon = 350
+	Mas_Sharkman_Karate = 400
+	Mas_Electric_Claw = 400
+	Mas_Dragon_Talon = 400
 	function Load_Mastery_Melee(vu)
 	for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 		if v:IsA('Tool') and v.Name == vu then
