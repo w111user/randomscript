@@ -7285,7 +7285,7 @@ if _G.Switch_Hub_Series_R then
                                     TP(CFrame.new(-5561.06738, 314.375793, -2663.88892, -0.304127187, -0.00254100002, 0.952628076, 0.000226983335, 0.999996245, 0.00273981248, -0.952631414, 0.00104948215, -0.304125458))
                                     if TimeLoaderx == nil or tick() - TimeLoaderx > 10 then
                                         TimeLoaderx = tick()
-                                        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I have God Chalice. I Can't Spawn Boss Admin","All")
+                                        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I have God Chalice. Can someone help me do haki quest?","All")
                                     end
 								end
 							end
