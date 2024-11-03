@@ -80,7 +80,7 @@ getgenv().Mastery = { -- Farm Mastery / ฟามมาสเตอรี่
 		[16] = 'Wando'
     },
 
-    ['Gun'] = false,
+    ['Gun'] = true,
     ['Setting Gun'] = { 
         [1] = 'Soul Guitar',
         [2] = 'Kabucha',
@@ -2789,7 +2789,7 @@ if _G.Switch_Hub_Series_R then
 				
 				if SelectMonster == "Water Fighter" then
 				else
-					Next_Level_X = 9999
+					Next_Level_X = 1500
 				end
 				SelectMonster = "Sea Soldier"
 			end
