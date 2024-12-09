@@ -1,4 +1,4 @@
---config for that hub (switch hub sources i got it from discord if u ask why i have the script) if u want: 
+--config for this hub (switch hub sources i got it from discord if u ask why i have the script) if u want: 
 -- Quest 
 _G.Quest = { 
     ['RGB Aura Haki'] = true,
